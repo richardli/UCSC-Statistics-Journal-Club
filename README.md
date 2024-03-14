@@ -13,7 +13,8 @@
   + [Gui, Yu, Rina Foygel Barber, and Cong Ma. "Conformalized matrix completion." arXiv preprint arXiv:2305.10637 (2023).](https://arxiv.org/abs/2305.10637)
   + [Jin, Ying, Zhimei Ren, and Emmanuel J. Candès. "Sensitivity analysis of individual treatment effects: A robust conformal inference approach." Proceedings of the National Academy of Sciences 120.6 (2023): e2214889120.](https://www.pnas.org/doi/10.1073/pnas.2214889120)
   + [Lei, Lihua, and Emmanuel J. Candès. "Conformal inference of counterfactuals and individual treatment effects." Journal of the Royal Statistical Society Series B: Statistical Methodology 83.5 (2021): 911-938.](https://academic.oup.com/jrsssb/article/83/5/911/7056131)
-
++ Meeting 5
+  + [Gui, Yu, Rina Barber, and Cong Ma. "Conformalized matrix completion." Advances in Neural Information Processing Systems 36 (2023): 4820-4844.](https://openreview.net/forum?id=6f320HfMeS&referrer=%5Bthe%20profile%20of%20Rina%20Barber%5D(%2Fprofile%3Fid%3D~Rina_Barber1)) 
 
 ### Spring 2023
 **Topic: Causal inference**
