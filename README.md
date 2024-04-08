@@ -1,4 +1,16 @@
 # UCSC Statistics Journal Club
+
+### Spring 2024
+**Topic: General Bayes**
++ Meeting 1
+  + [Bissiri, Pier Giovanni, Chris C. Holmes, and Stephen G. Walker. "A general framework for updating belief distributions." Journal of the Royal Statistical Society Series B: Statistical Methodology 78, no. 5 (2016): 1103-1130.](https://doi.org/10.1111/rssb.12158) 
++ Meeting 2
+  + [Martin, Ryan, and Nicholas Syring. "Direct Gibbs posterior inference on risk minimizers: Construction, concentration, and calibration." In Handbook of Statistics, vol. 47, pp. 1-41. Elsevier, 2022.](https://arxiv.org/abs/2203.09381) 
++ Meeting 3
+  + [Wu, Pei-Shien, and Ryan Martin. "Calibrating generalized predictive distributions." arXiv preprint arXiv:2107.01688 (2021).](https://arxiv.org/abs/2107.01688) 
++ Meeting 4
+  + [Rigon, Tommaso, Amy H. Herring, and David B. Dunson. "A generalized Bayes framework for probabilistic clustering." Biometrika 110, no. 3 (2023): 559-578.](https://doi.org/10.1093/biomet/asad004)   
+
 ### Winter 2024
 **Topic: Conformal inference**
 + Meeting 1
