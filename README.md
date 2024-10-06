@@ -1,4 +1,14 @@
 # UCSC Statistics Journal Club
+### Fall 2024
+**Topic: constrastive and representation learning**
++ Meeting 1
+  + [Li, D., Jones, A., & Engelhardt, B. (2020). Probabilistic contrastive principal component analysis, AOAS](https://arxiv.org/abs/2012.07977) 
++ Meeting 2
+  + [Jones, A., Townes, F. W., Li, D., & Engelhardt, B. E. (2022). Contrastive latent variable modeling with application to case-control sequencing experiments. The Annals of Applied Statistics, 16(3), 1268-1291.](https://arxiv.org/abs/2102.06731)
++ Meeting 3
+  + [Moran, G. E., Sridhar, D., Wang, Y., & Blei, D. M. (2022). Identifiable Deep Generative Models via Sparse Decoding. Transactions on Machine Learning Research.](https://openreview.net/forum?id=vd0onGWZbE)
++ Meeting 4
+  + [Wang, Y., & Jordan, M. I. (2021). Desiderata for representation learning: A causal perspective. JMLR](https://arxiv.org/pdf/2109.03795)
 
 ### Spring 2024
 **Topic: General Bayes**
