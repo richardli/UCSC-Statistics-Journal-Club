@@ -1,4 +1,14 @@
 # UCSC Statistics Journal Club
+
+This is a journal club run by [Juhee Lee](https://sites.google.com/ucsc.edu/juheelee/home), [Justin Hyun](https://sangwon-hyun.org/) and [myself](https://zehangli.com/). The journal club is formally listed as STAT 280D in the UCSC catalog.
+
+**Logistical information for students enrolling in STAT 280D at UCSC**:
+- Before the beginning of the quarter, we will provide a list of papers to read. Each student signs up on which paper to lead the discussion. Typically 1-2 students per paper.
+- We will use up to two meetings to discuss each paper. In the first meeting, students leading the discussion give a short presentation of the paper, and we all participate in discussion. 
+- In the second meeting (if needed), the students leading the discussion will lead a rebuttal/rejoinder-type discussion addressing questions/issues raised in the previous meeting that were not resolved. 
+- Students leading the discussion are expected to write a short summary or a reproducible code implementation report (e.g., Rmd). Past reports and papers are at this link.
+
+
 ### Fall 2024
 **Topic: constrastive and representation learning**
 + Meeting 1
