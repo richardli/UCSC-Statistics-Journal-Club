@@ -8,9 +8,20 @@ This is a journal club run by [Juhee Lee](https://sites.google.com/ucsc.edu/juhe
 - In the second meeting (if needed), the students leading the discussion will lead a rebuttal/rejoinder-type discussion addressing questions/issues raised in the previous meeting that were not resolved. 
 - Students leading the discussion are expected to write a short summary or a reproducible code implementation report (e.g., Rmd). Past reports and papers are at this link.
 
+### Winter 2025
+**Topic: Data splitting**
++ Meeting 1
+  + [Bootstrapping and Sample Splitting For High-Dimensional, Assumption-Free Inference, Alessandro Rinaldo, Larry Wasserman, Max G'Sell, Jing Lei](https://projecteuclid.org/journals/annals-of-statistics/volume-47/issue-6/Bootstrapping-and-sample-splitting-for-high-dimensional-assumption-lean-inference/10.1214/18-AOS1784.full) 
++ Meeting 2
+  + [Multicarving for high-dimensional post-selection inference, Christoph Schultheiss and Claude Renaux and Peter Bühlmann ](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-15/issue-1/Multicarving-for-high-dimensional-post-selection-inference/10.1214/21-EJS1825.full)
++ Meeting 3
+  + [Data fission: splitting a single data point James Leiner, Boyan Duan, Larry Wasserman, Aaditya Ramdas](https://arxiv.org/abs/2112.11079)
++ Meeting 4
+  + [Generalized data thinning using sufficient statistics, Ameer Dharamshi, Anna Neufeld, Keshav Motwani, Lucy L. Gao, Daniela Witten, and Jacob Bien](https://arxiv.org/abs/2303.12931)
+
 
 ### Fall 2024
-**Topic: constrastive and representation learning**
+**Topic: Contrastive and representation learning**
 + Meeting 1
   + [Li, D., Jones, A., & Engelhardt, B. (2020). Probabilistic contrastive principal component analysis, AOAS](https://arxiv.org/abs/2012.07977) 
 + Meeting 2
