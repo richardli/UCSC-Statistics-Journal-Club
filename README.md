@@ -8,6 +8,18 @@ This is a journal club run by [Juhee Lee](https://sites.google.com/ucsc.edu/juhe
 - In the second meeting (if needed), the students leading the discussion will lead a rebuttal/rejoinder-type discussion addressing questions/issues raised in the previous meeting that were not resolved. 
 - Students leading the discussion are expected to write a short summary or a reproducible code implementation report (e.g., Rmd). Past reports and papers are at this link.
 
+
+### Spring 2025
+**Topic: Transfer Learning**
++ Meeting 1
+  + [Transfer learning for high-dimensional linear regression: Prediction, estimation and minimax optimality" by Li, Cai and Li (JRSS-B, 2021)](https://academic.oup.com/jrsssb/article/84/1/149/7056104) 
++ Meeting 2
+  + ["Transfer Learning Under High-Dimensional Generalized Linear Models" by Tien and Feng (JASA T&M 2023)](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2071278)
++ Meeting 3
+  + ["Bayesian Transfer Learning" by Suder, Jason Xu, and David B. Dunson ArXiv](https://arxiv.org/abs/2312.13484)
++ Meeting 4
+  + ["Distributionally Robust and Generalizable Inference" by Rothenhäusler and Bühlmann (Statistical Science 2023)](https://projecteuclid.org/journals/statistical-science/volume-38/issue-4/Distributionally-Robust-and-Generalizable-Inference/10.1214/23-STS902.full)
+
 ### Winter 2025
 **Topic: Data splitting**
 + Meeting 1
