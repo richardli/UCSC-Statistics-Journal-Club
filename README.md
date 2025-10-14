@@ -8,6 +8,14 @@ This is a journal club run by [Juhee Lee](https://sites.google.com/ucsc.edu/juhe
 - In the second meeting (if needed), the students leading the discussion will lead a rebuttal/rejoinder-type discussion addressing questions/issues raised in the previous meeting that were not resolved. 
 - Students leading the discussion are expected to write a short summary or a reproducible code implementation report (e.g., Rmd). Past reports and papers are at this link.
 
+### Fall 2025
+**Topic: Learning Deep Representations of Data Distributions**
+[Book by Sam Buchanan, Druv Pai, Peng Wang, and Yi Ma](https://ma-lab-berkeley.github.io/deep-representation-learning-book/)
++ Chapter 1 [Slides]()
++ Chapter 2 [Slides (Part 1)](2025-Spring/2.1-A-Low-Dimensional-Subspace.pdf)
++ Chapter 3 [Slides]()
++ Chapter 4 [Slides]()
+
 
 ### Spring 2025
 **Topic: Transfer Learning**
