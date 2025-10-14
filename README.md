@@ -10,6 +10,7 @@ This is a journal club run by [Juhee Lee](https://sites.google.com/ucsc.edu/juhe
 
 ### Fall 2025
 **Topic: Learning Deep Representations of Data Distributions**
+
 [Book by Sam Buchanan, Druv Pai, Peng Wang, and Yi Ma](https://ma-lab-berkeley.github.io/deep-representation-learning-book/)
 + Chapter 1 [Slides]()
 + Chapter 2 [Slides (Part 1)](2025-Fall/2.1-A-Low-Dimensional-Subspace.pdf)
